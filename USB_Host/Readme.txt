@@ -1,0 +1,2 @@
+CDC_Standalone目录下的程序用Z-TEK的USB转串口线没有测试通过，没有用过别的牌子的USB转串口线测试过。
+MTP_Standalone目录下的程序没找到适合的设备来测试。
